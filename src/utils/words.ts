@@ -1,0 +1,8 @@
+export const words: string[] = [
+  "REACT", "NATIVE", "JAVASCRIPT", "PYTHON", "ANDROID",
+  "KOTLIN", "JAVA", "TYPESCRIPT", "ANGULAR", "VUE",
+  "FIGMA", "DESIGN", "STYLING", "EXPO", "HANGMAN",
+  "GRAPHQL", "NODE", "HTML", "CSS", "BACKEND",
+  "FRONTEND", "DATABASE", "SERVER", "MOBILE", "WEB",
+  "DEPLOY", "GITHUB", "DOCKER", "LINUX", "WINDOWS"
+];
